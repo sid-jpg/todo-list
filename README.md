@@ -12,7 +12,6 @@ This project is a web application that allows users to manage their tasks and tr
 - **Expense Tracker**:
   - Add and delete expenses.
   - Track expenses by category and description.
-  - Automatically calculates and displays the total expenses.
 
 - **Responsive Design**:
   - Built with Tailwind CSS and Bootstrap for a modern, responsive layout.
