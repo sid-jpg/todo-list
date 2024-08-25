@@ -1,6 +1,6 @@
 # To-Do List and Expense Tracker
 
-This project is a web application that allows users to manage their tasks and track their expenses. It features a modern, dark-themed user interface built with Flask for the backend and Tailwind CSS along with Bootstrap for styling.
+This project is a web application that allows users to manage their tasks and track their expenses. It features a modern user interface built with Flask for the backend and Tailwind CSS along with Bootstrap for styling.
 
 ## Features
 
@@ -19,7 +19,7 @@ This project is a web application that allows users to manage their tasks and tr
   
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Flask
 - SQLite 
 
